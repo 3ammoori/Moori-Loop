@@ -592,7 +592,7 @@ export default function App() {
         </div>
 
         <div className="text-center text-gray-600 text-xs">
-          <a href="https://moorios.netlify.app" target="_blank" rel="noopener noreferrer" className="text-purple-400 hover:text-purple-300 transition-colors">
+          <a href="https://moorios.vercel.app" target="_blank" rel="noopener noreferrer" className="text-purple-400 hover:text-purple-300 transition-colors">
             Moori :3
           </a>
         </div>
